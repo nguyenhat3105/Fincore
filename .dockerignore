@@ -1,0 +1,12 @@
+.git
+.github
+.gradle
+.idea
+.vscode
+build
+docs
+tmp
+*.iml
+*.log
+README.md
+
